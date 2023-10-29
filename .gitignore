@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+src/components/Navbar/
+src/components/LoginSignUp/
+
+
 
 # testing
 /coverage
